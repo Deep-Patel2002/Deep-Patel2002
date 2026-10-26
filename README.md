@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Deep 👋</h1>
 
 <p align="center">
-  <b>Software &amp; AI engineer · full-stack</b><br/>
+  <b>Security &amp; AI engineer · full-stack</b><br/>
   I build full-stack systems — and the evaluated AI layers that sit on top of them.
 </p>
 
