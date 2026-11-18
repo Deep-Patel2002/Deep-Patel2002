@@ -9,18 +9,43 @@
 
 I build security tools and backends in Go and Python. My projects cover how to contain untrusted code, evaluate AI-assisted security workflows, and verify what happens when systems fail. I use TypeScript and React for operator-facing interfaces.
 
-## Featured projects
+## Tools I work with
+
+![Go](https://img.shields.io/badge/Go-007D9C?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-A74625?style=flat-square&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F0B429?style=flat-square&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-007D77?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Projects
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/Deep-Patel2002/agent-exec"><img src="assets/agent-exec.png" width="280" alt="Agent Exec repository | Linux sandboxing"></a>
+      <a href="https://github.com/Deep-Patel2002/agent-exec"><img src="assets/agent-exec.png" width="280" alt="Agent Exec · Linux sandboxing"></a>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Deep-Patel2002/Argus-AI"><img src="assets/argus-ai.png" width="280" alt="Argus AI repository | Triage and evaluation"></a>
+      <a href="https://github.com/Deep-Patel2002/Argus-AI"><img src="assets/argus-ai.png" width="280" alt="Argus AI · Triage and evaluation"></a>
     </td>
     <td width="33%" align="center">
-      <a href="https://github.com/Deep-Patel2002/firmguard"><img src="assets/firmguard.png" width="280" alt="FirmGuard repository | Firmware parsing"></a>
+      <a href="https://github.com/Deep-Patel2002/firmguard"><img src="assets/firmguard.png" width="280" alt="FirmGuard · Firmware parsing"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Deep-Patel2002/Adaptive-and-Explainable-AI-for-Cyber-Incident-Detection-and-Response-in-Cloud-Environments"><img src="assets/cloud-detection.png" width="280" alt="Cloud Detection · Explainable AI research"></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Deep-Patel2002/Ecommerce-app_MERN-Stack-Project"><img src="assets/mern-commerce.png" width="280" alt="MERN Store · E-commerce application"></a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Deep-Patel2002/Shipment-Price-Prediction_Machine-Learning"><img src="assets/shipment-ml.png" width="280" alt="Shipment Pricing · Regression and evaluation"></a>
     </td>
   </tr>
 </table>
@@ -64,16 +89,24 @@ The parsers bound input size and check manifest structure and fields before call
 
 </details>
 
-## Research and other work
+## Research and earlier builds
 
-<details>
-<summary><strong>Open the research paper and earlier projects</strong></summary>
+- [**Cloud incident detection research**](https://github.com/Deep-Patel2002/Adaptive-and-Explainable-AI-for-Cyber-Incident-Detection-and-Response-in-Cloud-Environments) · Research paper on adaptive detection and explainability in cloud environments.
+- [**MERN e-commerce app**](https://github.com/Deep-Patel2002/Ecommerce-app_MERN-Stack-Project) · Product catalog, cart, and order flow built with React, Express, and MongoDB.
+- [**Shipment pricing model**](https://github.com/Deep-Patel2002/Shipment-Price-Prediction_Machine-Learning) · Notebook-based regression project covering data preparation, feature engineering, and evaluation.
 
-- [Adaptive and explainable AI for cloud incident detection · research paper](https://github.com/Deep-Patel2002/Adaptive-and-Explainable-AI-for-Cyber-Incident-Detection-and-Response-in-Cloud-Environments)
-- [MERN e-commerce application](https://github.com/Deep-Patel2002/Ecommerce-app_MERN-Stack-Project)
-- [Shipment price prediction](https://github.com/Deep-Patel2002/Shipment-Price-Prediction_Machine-Learning)
+## GitHub activity
 
-</details>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Deep-Patel2002&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=tokyonight" alt="Deep Patel's GitHub activity statistics">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-Patel2002&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Most-used languages by code volume in public repositories">
+</p>
+
+<p align="center">
+  <img width="560" src="https://github-readme-streak-stats.herokuapp.com/?user=Deep-Patel2002&amp;hide_border=true&amp;theme=tokyonight" alt="Current and longest GitHub contribution streaks">
+</p>
+
+[View contribution history](https://github.com/Deep-Patel2002)
 
 I’m open to security engineering roles and conversations about how teams test AI systems and design secure execution environments. [Connect on LinkedIn](https://www.linkedin.com/in/deep-patel-security)
 
